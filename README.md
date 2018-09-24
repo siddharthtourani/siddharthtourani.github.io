@@ -1,9 +1,3 @@
----
-title: MAIN
----
-
-
-
 # Hello World!
 
 This is a great new site.

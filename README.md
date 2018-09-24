@@ -23,8 +23,8 @@ List:
 
 Numbered:
 1. one
-2. two 
+2. two
 
-> Block quote.
-
+----
+> Block quote. There is something fishy going on.
 ----

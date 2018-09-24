@@ -7,3 +7,6 @@ title: About
 In a word: **Awesome!**
 
 See the [Home page](README.md)
+
+
+OK. So, what next.

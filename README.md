@@ -1,32 +1,8 @@
-# Hello World!
+Demo: [http://webjeda.com/bheema](http://webjeda.com/bheema)
 
-This is a great new site.
-p.s. gh-pages rock!
+## Installation
+* Fork the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready.
 
-![alt text](cat.png)
-
-[About](about.md)
-
-## Heading two
-
-### Heading three, etc.
-
-Any text with no empty lines between will become a paragraph.
-Font can be *Italic* or **Bold**.
-Code can be highlighted with `backticks`.
-
-Links look like this [GitHub Help](https://help.github.com/).
-
-List:
-- dog
-- cat
-
-Numbered:
-1. one
-2. two
-
-
-
-----
-> Block quote. There is something fishy going on.
-----
+For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
